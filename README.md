@@ -21,7 +21,7 @@ Building prediction models
 
 Enhancing accessibility and sustainability through technology
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 **Deep Learning with TensorFlow:** Delving into neural networks and advanced AI models.
 
