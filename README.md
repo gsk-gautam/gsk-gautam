@@ -11,7 +11,7 @@ Hi there! I'm **Gautam Kumar**, a passionate and curious learner with a knack fo
 ## 🌟 Skills & Interests
 **Languages:** Python, SQL
 
-**Tools:** TensorFlow, Prophet, MySQL, Mixpanel
+**Tools:** Power BI, TensorFlow, Prophet, MySQL, Mixpanel
 
 **Domains:** Machine Learning, Transportation Analytics, E-commerce, and more.
 
